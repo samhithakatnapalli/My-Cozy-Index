@@ -1,0 +1,154 @@
+.container{
+    position: relative;
+}
+
+.top{
+    position: absolute;
+    left: 450px;
+}
+
+.heading{
+    position: absolute;
+    top: 29px;
+    left: 626px;
+    z-index: 2;
+}
+
+.icon{
+    position:absolute;
+    top: 15px;
+    left: 450px;
+}
+
+.bottom{
+    position: absolute;
+    left: 485px;
+    top: 80px;
+}
+
+.close{
+    position: absolute;
+    left: 930px;
+    top: 28px;
+}
+
+.min{
+    position: absolute;
+    left: 885px;
+    top:28px;
+}
+
+.arrow{
+    position: absolute;
+    top: 28px;
+    left: 838px;
+}
+
+.book:hover{
+    transform: scale(1.05);
+}
+
+.drama:hover{
+    transform: scale(1.05);
+}
+
+.series:hover{
+    transform: scale(1.05);
+}
+
+.quotes:hover{
+    transform: scale(1.05);
+}
+
+.close:hover{
+    transform: scale(1.15);
+}
+
+.min:hover{
+    transform: scale(1.15);
+}
+
+.arrow:hover{
+    transform: scale(1.15);
+}
+
+.shelf{
+    position: absolute;
+    top: 220px;
+    left: 510px;
+}
+.book-1{
+    position: absolute;
+    left: 523px;
+    top: 94px;
+}
+.book-1:hover{
+    transform: scale(1.15);
+}
+.book-2:hover{
+    transform: scale(1.15);
+}
+.book-3:hover{
+    transform: scale(1.15);
+}
+.book-4:hover{
+    transform: scale(1.15);
+}
+.book-5:hover{
+    transform: scale(1.15);
+}
+.book-6:hover{
+    transform: scale(1.15);
+}
+.book-2{
+    position: absolute;
+    left: 669px;
+    top: 95px;
+}
+.book-3{
+    position: absolute;
+    left: 808px;
+    top: 95px;
+}
+.book-4{
+    position: absolute;
+    left: 528px;
+    top: 296px;
+}
+.book-5{
+    position: absolute;
+    left: 673px;
+    top: 296px;
+}
+.book-6{
+    position: absolute;
+    left: 812px;
+    top: 296px;
+}
+.shelf1{
+    position: absolute;
+    top: 220px;
+    left: 655px;
+    z-index: 2;
+}
+.shelf2{
+    position: absolute;
+    top: 220px;
+    left: 795px;
+    z-index: 2;
+}
+.shelf3{
+    position: absolute;
+    top: 420px;
+    left: 514px;
+}
+.shelf4{
+    position: absolute;
+    top: 420px;
+    left: 660.5px;
+}
+.shelf5{
+    position: absolute;
+    top: 420px;
+    left: 798px;
+}

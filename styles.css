@@ -1,0 +1,87 @@
+.container{
+    position: relative;
+}
+
+.top{
+    position: absolute;
+    left: 450px;
+}
+
+.heading{
+    position: absolute;
+    top: 32px;
+    left: 555px;
+    z-index: 2;
+}
+
+.icon{
+    position:absolute;
+    top: 15px;
+    left: 450px;
+}
+
+.bottom{
+    position: absolute;
+    left: 485px;
+    top: 80px;
+}
+
+.close{
+    position: absolute;
+    left: 930px;
+    top: 28px;
+}
+
+.min{
+    position: absolute;
+    left: 885px;
+    top:28px;
+}
+
+.book{
+    position: absolute;
+    top: 120px;
+    left: 530px;
+}
+
+.book:hover{
+    transform: scale(1.05);
+}
+
+.drama:hover{
+    transform: scale(1.05);
+}
+
+.series:hover{
+    transform: scale(1.05);
+}
+
+.quotes:hover{
+    transform: scale(1.05);
+}
+
+.close:hover{
+    transform: scale(1.15);
+}
+
+.min:hover{
+    transform: scale(1.15);
+}
+
+.series{
+    position: absolute;
+    top: 120px;
+    left: 730px;
+}
+
+.drama{
+    position: absolute;
+    left: 530px;
+    top: 330px;
+}
+
+.quotes{
+    position: absolute;
+    top: 330px;
+    left: 730px;
+}

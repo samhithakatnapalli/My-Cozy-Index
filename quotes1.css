@@ -1,0 +1,63 @@
+.container{
+    position: relative;
+}
+
+.icon{
+    position:absolute;
+    top: 15px;
+    left: 450px;
+}
+
+.quote-page1{
+    position: absolute;
+    left: 503px;
+    top: 110px;
+}
+
+.top{
+    position: absolute;
+    left: 450px;
+}
+
+.heading{
+    position: absolute;
+    top: 33px;
+    left: 640px;
+    z-index: 2;
+}
+
+.bottom{
+    position: absolute;
+    left: 485px;
+    top: 80px;
+}
+
+.close{
+    position: absolute;
+    left: 930px;
+    top: 28px;
+}
+
+.min{
+    position: absolute;
+    left: 885px;
+    top:28px;
+}
+
+.arrow{
+    position: absolute;
+    top: 28px;
+    left: 838px;
+}
+
+.close:hover{
+    transform: scale(1.15);
+}
+
+.min:hover{
+    transform: scale(1.15);
+}
+
+.arrow:hover{
+    transform: scale(1.15);
+}
